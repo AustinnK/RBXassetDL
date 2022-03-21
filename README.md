@@ -11,7 +11,7 @@ Tool used for downloading audios off of roblox
 
 ## Installation
 
-###Download the latest build [here](https://github.com/AustinnK/RBXassetDL/releases/tag/1.0.0)
+### Download the latest build [here](https://github.com/AustinnK/RBXassetDL/releases/tag/1.0.0)
 
 Required libraries:
 [follow-redirects](https://www.npmjs.com/package/follow-redirects)
