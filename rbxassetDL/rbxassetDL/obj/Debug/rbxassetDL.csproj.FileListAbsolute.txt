@@ -1,0 +1,11 @@
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\bin\Debug\rbxassetDL.exe.config
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\bin\Debug\rbxassetDL.exe
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\bin\Debug\rbxassetDL.pdb
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.csproj.AssemblyReference.cache
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.Form1.resources
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.Properties.Resources.resources
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.csproj.GenerateResource.cache
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.exe
+C:\Users\Austin\source\repos\rbxassetDL\rbxassetDL\obj\Debug\rbxassetDL.pdb
