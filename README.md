@@ -15,6 +15,7 @@ Tool used for downloading audios off of roblox
 
 Required libraries:
 [follow-redirects](https://www.npmjs.com/package/follow-redirects)
+[NodeJS](https://nodejs.org/) required
 ```
 npm i follow-redirects
 ```
